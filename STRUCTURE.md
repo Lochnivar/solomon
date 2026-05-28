@@ -51,4 +51,5 @@ Tribes operating at the sharp end — direct action, intelligence, and internal 
 ## See Also
 - [Solomon](solomon.md)
 - [Cosmology](cosmology.md) — Hierarchy, faction relationships, the triangular battlefield
+- [Tribes — General](tribes-general.md) — Cross-tribal systems: membership, assessment, foster network, martyr tradition
 - [DIALOGUE-PAGE.md](DIALOGUE-PAGE.md) — Full story bible
